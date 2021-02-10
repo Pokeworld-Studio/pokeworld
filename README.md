@@ -1,2 +1,2 @@
-# pokeworld
+# Pokeworld
 The official Discord bot of Pokéworld!
