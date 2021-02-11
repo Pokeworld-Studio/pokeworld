@@ -27,6 +27,7 @@ class Bot(BotBase):
 
     def setup(self):
         self.load_extension('lib.cogs.pokemon')
+        self.load_extension('lib.cogs.help')
 
         print("Setup Complete.")
 
